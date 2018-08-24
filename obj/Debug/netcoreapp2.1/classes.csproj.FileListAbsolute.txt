@@ -1,0 +1,11 @@
+/home/shu/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.deps.json
+/home/shu/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.runtimeconfig.json
+/home/shu/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.runtimeconfig.dev.json
+/home/shu/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.dll
+/home/shu/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.pdb
+/home/shu/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.csprojAssemblyReference.cache
+/home/shu/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.csproj.CoreCompileInputs.cache
+/home/shu/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfoInputs.cache
+/home/shu/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfo.cs
+/home/shu/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.dll
+/home/shu/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.pdb
